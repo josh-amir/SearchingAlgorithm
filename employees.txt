@@ -1,0 +1,10 @@
+Employee1,John Doe,Software Engineer,75000
+Employee2,Jane Smith,Project Manager,85000
+Employee3,Bob Johnson,Data Analyst,65000
+Employee4,Alice Williams,UX Designer,70000
+Employee5,Charlie Brown,DevOps Engineer,80000
+Employee6,Diana Prince,Product Owner,90000
+Employee7,Eric Adams,QA Engineer,60000
+Employee8,Fiona Green,Marketing Specialist,55000
+Employee9,George White,Sales Executive,72000
+Employee10,Hannah Black,HR Manager,78000
